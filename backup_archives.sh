@@ -3,8 +3,8 @@
 # Variables
 group_number="<14>"  # Replace with your group number
 archive_dir="archived_logs_group14"
-remote_host="<Noella-Ntare>"         # Replace with the sandbox host info
-remote_user="<Noella-Ntare>"     # Replace with the sandbox username
+remote_host="<15aa38ba824e.079e7915.alu-cod.online>"         # Replace with the sandbox host info
+remote_user="<15aa38ba824e>"     # Replace with the sandbox username
 remote_dir="/hospital_monitoring_group14_backup/"                 # Directory on the remote server for backup
 
 # Create the archive directory if it doesn't exist
